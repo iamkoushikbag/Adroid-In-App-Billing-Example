@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feature_1" />
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feature_2" />
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feature_3" />
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feature_4" />
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feature_5" />
+
+    <View
+        android:layout_width="56dp"
+        android:layout_height="1dp"
+        android:layout_margin="16dp"
+        android:background="?android:attr/textColorPrimary" />
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feature_6" />
+</merge>

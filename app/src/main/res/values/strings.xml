@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UFS Free Paid Demo</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Login</string>
+
+    <string name="feature_1">My Account</string>
+    <string name="feature_2">Search Products</string>
+    <string name="feature_3">Cart</string>
+    <string name="feature_4">Terms and Conditions</string>
+    <string name="feature_5">Privacy Policy</string>
+    <string name="feature_6">App info</string>
+
+    <string name="app_free">UFS Free App</string>
+    <string name="app_paid">UFS Paid App</string>
+</resources>
